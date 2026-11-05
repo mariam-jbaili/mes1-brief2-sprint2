@@ -72,3 +72,7 @@ vide. Les classes de la page peuvent être réutilisées lors de la création de
 - Supprimer tous les participants affiche le message d'état vide.
 
 Expliquez où vous modifiez les données et à quel moment vous actualisez le DOM.
+
+
+
+https://mariam-jbaili.github.io/mes1-brief2-sprint2/
